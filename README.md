@@ -28,6 +28,8 @@ Each report is designed for business stakeholders to support decision-making usi
 
 ## 📈 Sales Report
 
+[Click here to view the Sales and Marketing Report (PDF)](./AtliQ%20Hardwares%20Sales%20and%20Marketing%20Report.pdf)
+
 ### 🎯 Objective:
 To analyze AtliQ Hardware's sales performance across customers, markets, divisions, and product lines to identify key trends and performance gaps.
 
@@ -50,6 +52,8 @@ To analyze AtliQ Hardware's sales performance across customers, markets, divisio
 ---
 
 ## 💹 Finance Report
+
+📄 [Click here to view the Financial Report (PDF)](./AtliQ%20Hardwares%20Financial%20Report.pdf)
 
 ### 🎯 Objective:
 To analyze the financial performance of AtliQ Hardware by reporting on profit, loss, and margin trends segmented by fiscal year, month, and geography.
