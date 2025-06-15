@@ -53,7 +53,7 @@ To analyze AtliQ Hardware's sales performance across customers, markets, divisio
 
 ## 💹 Finance Report
 
-📄 [Click here to view the Financial Report (PDF)](./AtliQ%20Hardwares%20Financial%20Report.pdf)
+[Click here to view the Financial Report (PDF)](./AtliQ%20Hardwares%20Financial%20Report.pdf)
 
 ### 🎯 Objective:
 To analyze the financial performance of AtliQ Hardware by reporting on profit, loss, and margin trends segmented by fiscal year, month, and geography.
